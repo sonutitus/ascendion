@@ -1,6 +1,5 @@
 import utils from '../../utils';
 import findCruise from '../pageobjects/findCruise';
-// import destination from '../pageobjects/destination';
 import homePage from '../pageobjects/home.page'
 
 describe('My Login application', () => {
